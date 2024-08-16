@@ -28,8 +28,6 @@
 
 ⏳ Timer - É um contador que utiliza a tecnica de pomodoro.
 
-Projeto desenvolvimento durante o curso ReactJs Ignite da [Rocketseat](https://www.rocketseat.com.br/ignite).
-
 ---
 
 ## Features
