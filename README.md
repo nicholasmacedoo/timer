@@ -3,9 +3,6 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bfukumori/ignite-timer?color=%2304D361">
 </p>
 
-<h1 align="center">
-    <img alt="ignite-timer" title="#ignite-timer" src="./src/assets/logo.svg" />
-</h1>
 
 <p align="center">
   <a href="#about">Sobre</a> •
@@ -15,14 +12,6 @@
   <a href="#author">Author</a> • 
   <a href="#user-content-license">License</a>
 </p>
-
-<div align="center"> 
-	<img alt="ignite-timer" title="#ignite-timer" src="./.github/banner-1.PNG" />
-</div>
-
-<div align="center"> 
-	<img alt="ignite-timer" title="#ignite-timer" src="./.github/banner-2.PNG" />
-</div>
 
 ## Sobre
 
